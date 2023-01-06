@@ -1,4 +1,4 @@
-# vue-i18n
+# vue2-minimum-sample
 
 ## Project setup
 ```
